@@ -37,7 +37,7 @@ Clone o projeto com o comando abaixo:
 ```bash
   # Clone o repositório
   ❯ git clone 
-https://github.com/Eboscatto/controle-de-estoque.git
+https://github.com/Eboscatto/notas-atletas.git
 	# Entre no diretório
   ❯ cd [nome-projeto]
 	# Para executar o projeto:   
